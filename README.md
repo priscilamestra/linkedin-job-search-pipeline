@@ -1,4 +1,4 @@
-# LinkedIn Job Scraper & AI Application Pipeline
+# LinkedIn Job Search Pipeline
 
 ![n8n](https://img.shields.io/badge/n8n-Workflow%20Automation-EA4B71?style=flat-square&logo=n8n&logoColor=white) ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=000000) ![AI Automation](https://img.shields.io/badge/AI-Automation-6C63FF?style=flat-square) ![Groq](https://img.shields.io/badge/Groq-API-F55036?style=flat-square) ![Google Sheets](https://img.shields.io/badge/Google%20Sheets-34A853?style=flat-square&logo=googlesheets&logoColor=white) ![Google Drive](https://img.shields.io/badge/Google%20Drive-4285F4?style=flat-square&logo=googledrive&logoColor=white) ![LinkedIn](https://img.shields.io/badge/LinkedIn-Job%20Discovery-0A66C2?style=flat-square&logo=linkedin&logoColor=white) ![API Integration](https://img.shields.io/badge/API-Integration-0A66C2?style=flat-square)
 
@@ -1324,7 +1324,7 @@ Provider limits may change over time, so exact free-tier capacities should alway
 ## Repository Structure
 
 ```text
-job-scraper-linkedin-rss-template/
+linkedin-job-search-pipeline/
 ├── Workflows/
 │   ├── TEMPLATE - 01 Job Scraper LinkedIn.json
 │   ├── TEMPLATE - 02 Job Saver LinkedIn.json
